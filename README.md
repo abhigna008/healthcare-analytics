@@ -12,7 +12,7 @@ The goal of this project was to transform raw clinical admission and billing dat
 ### 1️⃣ Master Executive View
 This view shows high-level KPIs and aggregate trends for the entire hospital.
 
-![Master Dashboard View](YOUR_IMAGE_LINK_HERE)
+![Master Dashboard View](https://github.com/Abhigna008/Healthcare-Analytics/blob/main/Dashboard_Screenshots/Master_Dashboard.png)
 
 ### 2️⃣ Granular Patient Lookup (Search & Filter Feature)
 This view demonstrates the dashboard's powerful filtering capability. By selecting a specific **Patient_ID**, the entire dashboard cross-filters to show a personalized snapshot of that individual's journey:
@@ -21,7 +21,7 @@ This view demonstrates the dashboard's powerful filtering capability. By selecti
 * **Timeline:** Displays the Admit, Discharge, and Follow-up dates for that specific patient record.
 * **Doctor Assignment:** Shows which doctor treated them and the feedback score associated with that visit.
 
-![Granular Patient View](YOUR_IMAGE_LINK_HERE)
+![Granular Patient View](https://github.com/Abhigna008/Healthcare-Analytics/blob/main/Dashboard_Screenshots/Single_patient_view.png)
 
 ---
 
