@@ -46,7 +46,7 @@ This view demonstrates the dashboard's powerful filtering capability. By selecti
 
 ## 🚀 How to View this Project
 
-I have uploaded the actual **`Healthcare_Analysis.pbix`** file to this repository. You can download it to explore the interactivity.
+I have uploaded the actual **`Healthcare_Analysis.pbix`** file to this repository. You can download it to explore the interactivity. I have also attached screenshots of the dashboard in the folder Dashboard_Screenshots for your reference.
 
 ### ⚠️ Note on Interactive Link:
 Because I am using a personal Power BI version (without a Pro/Premium Organizational account), I cannot provide a live "Publish to Web" link. However, the provided **Screenshots** and the **Source File** fully document the design and functionality of the tool.
